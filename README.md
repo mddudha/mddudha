@@ -32,8 +32,9 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,swift,xcode,testflight,json" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,postman,docker,python,mysql,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,swift" />
+    <img src="https://skillicons.dev/icons?i=r,swift,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java" />
+    <img src="https://skillicons.dev/icons?i=nextjs,mysql,flask,postman,docker,python,mysql,figma,unity,linux" /><br>
 </div>
  
 
