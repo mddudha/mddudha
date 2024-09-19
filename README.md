@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Mirva Dudhagara. I currently work as a Research Assitant - iOS Engineer at Kelly School of Business under the Data Science and AI Lab. 
+
+[![Mirva's GitHub stats](https://github-readme-stats.vercel.app/api?username=mddudha)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **mddudha/mddudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
