@@ -1,8 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Mirva Dudhagara
+#### Software Engineer
+I'm a Graduate Computer Science Student at Indiana University Bloomington.
 
-I'm Mirva Dudhagara. I currently work as a Research Assitant - iOS Engineer at Kelly School of Business under the Data Science and AI Lab. 
+Skills: Swift, Cocoa Touch Framework, UI Kit, Swift UI, Core Data, Core Animation, Core Location, Xcode, TestFlight, Cocoa Pods, HealthKit, Swift Package Manager, MVC, MVVM, RESTful APIs, Alamofire, JSON, Agile, Scrum, JIRA, React Native, React JS, Tailwind CSS, Node.js, Docker, Python, Django, MySQL, MongoDB, Firebase, Postman, Git, GitHub, WordPress, Figma, Angular, HTML, CSS, JavaScript, Next.js, Redis, Hadoop, C, C#, Unity, AWS, Cloud Computing, Android Studio, Java, JavaScript, Kotlin, .NET, UI/UX, PostgreSQL, Objective C, R, R Studio, PHP, Linux, Map Reduce, Microservices Architecture, CI/CD, AWS S3, Jest, Lambda, NumPy, Pandas, TensorFlow, Keras, Matplotlib, Hypothesis Testing
 
-[![Mirva's GitHub stats](https://github-readme-stats.vercel.app/api?username=mddudha)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working as a Research Assistant - iOS Engineer at Kelly School of Business under the Data Science & AI Lab. 
+- 📫 How to reach me: Email: dudhagaramirva@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mddudha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mirva-dudhagara-1289051a9//)  
+
+
 
 
 <!--
