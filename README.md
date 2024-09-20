@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
+<h1 align="center"><TT>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Mirva+Dudhagara!;" />
+</TT>
 </h1>
 
 <h3 align="center">I'm a Graduate Computer Science Student at Indiana University Bloomington.</h3>
